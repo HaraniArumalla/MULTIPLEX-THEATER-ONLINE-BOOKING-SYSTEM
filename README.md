@@ -4,3 +4,8 @@
 3. 3. Also, a printing system will not be in this project. In future, a ticket printing system can be integrated. 4. The customers who have booked the tickets must reach the multiplex 30 minutes prior to the show time or else ticket will get cancelled.
 # Technologies:
 Java,HTML,CSS,Angular.
+# Features:
+we have created Customer Registration page so that User can Register with Name, And also Login page- In this Customer can login and book the seats, We have also created Check availabilty page, In this after login- the customer can search Movie From MovieList and check the seats available or not. If ticket is available then they can book the tickets.
+Book tickets-Customer can book the ticktes by specifying the username and phonenumber, we added payment methods also in order to do payments through UPI and book the Movietickets.
+# Usage:
+we propose a system which is more reliable, entertaining and easy than the present system. Our solution targets the customers those who do not spare time to stand in queue  for  booking  tickets, So that We  propose  an  easy  way  of  ordering  and paying for the tickets without any delays and inconvenience. 
